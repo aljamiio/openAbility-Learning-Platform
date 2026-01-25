@@ -4,8 +4,8 @@ openAbility is an HCI project and inclusive learning platform for deaf, deaf-mut
 
 # HCI Prototype-figma
 
-This is a code bundle for HCI Prototype-figma. The original project is available at [https://www.figma.com/design/5D3tywUXxppEtuYLOR1yGj/HCI-Prototype-figma.](https://www.figma.com/make/5D3tywUXxppEtuYLOR1yGj/HCI-Prototype-figma?p=f&t=X6eX86xjYX1rTynM-0&fullscreen=1)
-
+This is a code bundle for HCI Prototype-figma. The original project is available at
+https://raven-echo-36456823.figma.site/
 ## Running the code
 
 Run `npm i` to install the dependencies.
